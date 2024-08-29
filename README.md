@@ -8,7 +8,7 @@
 
 [@broderio](https://github.com/broderio)
 
-[@dhilpickle21](https://github.com/dhilpickle21)
+[@dhilpickle21](https://github.com/dhipatel21)
 
 ## Project Background
 Image segmentation is the process by which the pixels of an image are partitioned into multiple segments based on shared characteristics that can include color, texture, and intensity. The goal of semantic image segmentation is to predict a class for every pixel in an image. Semantic image segmentation has important applications in fields such as medical imaging and autonomous vehicles.
